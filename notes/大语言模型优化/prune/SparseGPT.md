@@ -72,3 +72,6 @@ Massive Language Models Can be Accurately Pruned in One-Shot
 
 且该方法基于梯度来剪枝，存海森矩阵需要较大的存储空间。
 
+能否通过别的数学模型做别的加速？
+
+能否通过找到参数之间的关系，进行有针对性的补偿，而不是泛泛地去补偿？
